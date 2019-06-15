@@ -29,6 +29,6 @@
     "xml2js": "^0.4.19"
   },
   "devDependencies": {
-    "acme-challenge-test": "^3.1.1"
+    "acme-dns-01-test": "^3.3.1"
   }
 }
