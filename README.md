@@ -2,6 +2,11 @@
 
 NameCheap DNS for Let's Encrypt / ACME dns-01 challenges with ACME.js and Greenlock.js (Node.js).
 
+
+# In Development
+The documentation for how to pass the tests is here:
+
+* https://git.rootprojects.org/root/acme-dns-01-test.js
 # Tests
 
 ```
