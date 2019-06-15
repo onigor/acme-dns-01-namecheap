@@ -21,7 +21,8 @@
   ],
   "author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com/)",
   "contributors": [
-    "Nyaundi Brian <danleyb2@gmail.com> (https://git.coolaj86.com/danleyb2/)"
+    "Nyaundi Brian <danleyb2@gmail.com> (https://git.coolaj86.com/danleyb2/)",
+    "Archie Baer <archie@abaer.dev> (https://abaer.dev)"
   ],
   "license": "MPL-2.0",
   "dependencies": {
