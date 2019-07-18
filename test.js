@@ -2,7 +2,7 @@
 'use strict';
 
 // https://git.rootprojects.org/root/acme-dns-01-test.js
-var tester = require('acme-dns-01-test');
+var tester = require('acme-challenge-test');
 
 // Usage: node ./test.js example.com xxxxxxxxx
 var zone = process.argv[2];
