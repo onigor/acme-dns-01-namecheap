@@ -17,10 +17,10 @@ First you create an instance with your credentials:
 
 ```js
 var dns01 = require('acme-dns-01-namecheap').create({
-	apiUser: 'username',
-	apiKey: 'xxxx',
-	clientIp: 'public ip',
-	username: 'username',
+	apiUser: 'jdoe',
+	apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+	clientIp: '121.22.123.22',
+	username: 'jdoe',
 	baseUrl: 'https://api.namecheap.com/xml.response' // default
 });
 ```
