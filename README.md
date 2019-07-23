@@ -20,8 +20,8 @@ var dns01 = require('acme-dns-01-namecheap').create({
 	apiUser: 'username',
 	apiKey: 'xxxx',
 	clientIp: 'public ip',
-	username: 'api user',
-	baseUrl: 'sandbox or production' // default production
+	username: 'username',
+	baseUrl: 'https://api.namecheap.com/xml.response' // default
 });
 ```
 
