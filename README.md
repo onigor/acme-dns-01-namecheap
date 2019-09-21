@@ -1,4 +1,4 @@
-# [acme-dns-01-namecheap](https://git.rootprojects.org/root/acme-dns-01-namecheap) | a [Root](https://rootrpojects.org) project
+# [acme-dns-01-namecheap](https://git.rootprojects.org/root/acme-dns-01-namecheap.js) | a [Root](https://rootrpojects.org) project
 
 NameCheap DNS + Let's Encrypt
 
