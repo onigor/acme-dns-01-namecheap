@@ -1,12 +1,12 @@
 {
 	"name": "acme-dns-01-namecheap",
-	"version": "3.0.1",
+	"version": "3.0.2",
 	"description": "Namecheap DNS for Let's Encrypt / ACME dns-01 challenges with ACME.js and Greenlock.js",
 	"main": "index.js",
-  "files": [
-    "lib",
-    "test.js"
-  ],
+	"files": [
+		"lib",
+		"test.js"
+	],
 	"scripts": {
 		"test": "node ./test.js"
 	},
